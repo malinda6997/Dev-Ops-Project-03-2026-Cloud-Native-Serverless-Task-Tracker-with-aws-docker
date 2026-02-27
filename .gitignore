@@ -1,0 +1,12 @@
+# Python stuff
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Docker/DB stuff
+mongo-data/
+
+# OS stuff
+.DS_Store
+Thumbs.db
