@@ -1,7 +1,7 @@
 import os
 from flask import Flask, request, render_template, redirect, url_for
 from pymongo import MongoClient
-from bson.objectid import ObjectId # මේක අලුතින් ඕන වෙනවා
+from bson.objectid import ObjectId 
 from dotenv import load_dotenv
 
 load_dotenv()
